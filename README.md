@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me feel free to mail me at neww7533@gmail.com
 - 😄 Pronouns:WisZy
-- ⚡ Fun fact: I don't know anything but I know how to know anything
+- ⚡ Fun fact: I am learning everyday new techz.
 
 <!---
 devWisz/devWisz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
