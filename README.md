@@ -2,7 +2,7 @@
 - 👀 I’m interested in different Technologies
 - 🌱 I’m currently learning Django , Web
 - 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me feel free to mail me at neww7533@gmail.com
+- 📫 How to reach me feel free to mail me at pythondevforuser@gmail.com
 - 😄 Pronouns:WisZy
 - ⚡ Fun fact: I am learning everyday new techz.
 
