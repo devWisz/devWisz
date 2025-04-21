@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devWisz
 - 👀 I’m interested in different Technologies
-- 🌱 I’m currently learning Ruby , Web
+- 🌱 I’m currently learning Django , Web
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me feel free to mail me at neww7533@gmail.com
 - 😄 Pronouns:WisZy
