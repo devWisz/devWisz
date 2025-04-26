@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me feel free to mail me at pythondevforuser@gmail.com
 - 😄 Pronouns:WisZy
-- ⚡ Fun fact: I mostly do CLI based projects it's only for techies to use.
+- ⚡ Fun fact: I am too lazy to code ..
 
 <!---
 devWisz/devWisz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
