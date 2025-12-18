@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me feel free to mail me at sarjak.khanal@gmail.com
 - 😄 Pronouns:WisZy
-- ⚡ Fun fact: I am too lazy to code ..
+- ⚡ Fun fact: Love to spend time in debugging 
 
 <!---
 devWisz/devWisz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
