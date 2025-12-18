@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarjak Khanal</h1>
 <h3 align="center">Developer | Designer | Content Creator</h3>
 
-- 🔭 I’m currently working on **one of my personal project**
+- 🔭 I’m currently working on **seriously on one of my personal project**
 
-- 🌱 I’m currently learning **coding**
+- 🌱 I’m currently learning **new tech stacks**
 
 - 👯 I’m looking to collaborate on **for participating in different tech events**
 
