@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devWisz
 - 👀 I’m interested in different Technologies,writing too
-- 🌱 I’m currently learning Django , Web
+- 🌱 I’m currently building my own project
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me feel free to mail me at sarjak.khanal@gmail.com
 - 😄 Pronouns:WisZy
