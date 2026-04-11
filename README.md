@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Personal Projects**
+- 🔭 I’m currently working on **some of my Personal Projects**
 - 🌱 I’m currently learning **Advanced Coding Patterns**
 - 👯 I’m looking to collaborate on **Tech Events & Hackathons**
 - 📝 I regularly write articles on [sarjakkhanal.blogspot.com](https://sarjakkhanal.blogspot.com/)
