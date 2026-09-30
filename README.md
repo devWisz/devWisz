@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Sarjak Khanal </h1>
-<h3 align="center">Developer | Designer | Content Creator</h3>
+<h3 align="center">Developer | Designer | Chess Player </h3>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devwisz&theme=flat&column=7" alt="trophies" />
