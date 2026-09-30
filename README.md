@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **some of my Personal Projects**
 - 🌱 I’m currently learning **Advanced Coding Patterns**
-- 👯 I’m looking to collaborate on **Tech Events & Hackathons**
+- 👯 I’m looking to collaborate on ** Hackathons**
 - 📝 I regularly write articles on [sarjakkhanal.blogspot.com](https://sarjakkhanal.blogspot.com/)
 - 💬 Ask me about **Tech and Marketing stuffs**
 - 📫 How to reach me **sarjak.khanal@gmail.com**
